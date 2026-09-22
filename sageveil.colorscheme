@@ -1,6 +1,6 @@
 
 [Background]
-Color=16,19,16
+Color=15,18,15
 
 [BackgroundIntense]
 Color=38,47,38
@@ -13,7 +13,7 @@ Color=195,205,192
 Bold=true
 
 [Color0]
-Color=16,19,16
+Color=15,18,15
 
 [Color0Intense]
 Color=38,47,38
@@ -25,16 +25,16 @@ Color=154,107,107
 Color=176,133,133
 
 [Color2]
-Color=149,156,112
+Color=144,151,107
 
 [Color2Intense]
-Color=156,159,127
+Color=149,152,120
 
 [Color3]
-Color=166,153,102
+Color=160,147,96
 
 [Color3Intense]
-Color=198,182,126
+Color=188,174,118
 
 [Color4]
 Color=138,132,147
@@ -49,10 +49,10 @@ Color=135,111,127
 Color=148,126,141
 
 [Color6]
-Color=127,148,118
+Color=124,145,115
 
 [Color6Intense]
-Color=154,171,144
+Color=148,165,138
 
 [Color7]
 Color=168,175,166
